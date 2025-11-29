@@ -1,0 +1,23 @@
+{
+  "name": "lab_2025",
+  "version": "1.0.0",
+  "description": "Лабараторні роботи з ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node ./dist/index.js",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
